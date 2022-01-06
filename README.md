@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Siva chidambaram</h1>
-<h3 align="center">Ever learning Full stack developer</h3>
+<h3 align="center"Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaaks&label=Profile%20views&color=0e75b6&style=flat" alt="sivaaks" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://sivachidambaram.com/resume](https://sivachidambaram.com/resume)
 
-- ⚡ Fun fact **I live to code**
+- ⚡ Fun fact **I convert potato chips to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
