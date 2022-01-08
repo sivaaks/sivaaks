@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://sivachidambaram.com/resume](https://sivachidambaram.com/resume)
 
-- ⚡ Fun fact **I convert potato chips to code**
+- ⚡ Fun fact **I love fruits**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
